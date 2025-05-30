@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ShagarAI
+/src/backend/database.py      @ShagarAI
+/src/backend/routers/auth.py  @ShagarAI
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ShagarAI
